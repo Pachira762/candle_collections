@@ -1,1 +1,6 @@
 /target
+/data
+/export/models
+/export/.venv
+
+Cargo.lock
